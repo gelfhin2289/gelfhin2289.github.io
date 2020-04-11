@@ -1,0 +1,39 @@
+.quest {
+  color: #0d0d0d;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.phone a {
+  color: #0d0d0d;
+  font-family: "PT Sans";
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.phone p,
+.send p {
+  margin: 0;
+  padding: 0;
+}
+
+.send,
+.phone {
+  text-align: right;
+}
+.mail a {
+  color: #368c02;
+  font-family: "PT Sans";
+  font-size: 14px;
+  font-weight: 400;
+  text-decoration: underline;
+}
+
+.mecolor {
+  background-color: #368c02;
+}
+
+.menav-link {
+  text-decoration: underline;
+}
